@@ -1,0 +1,25 @@
+import java.util.HashSet;
+import java.util.Set;
+
+public class duplicate {
+
+    public static boolean contains_duplicate(int num[]){
+
+        Set<Integer> s = new HashSet<>();
+
+        for(int nums : num){
+            if (s.contains(nums)) {
+                return true;
+            
+            }
+             s.add(nums);
+        }
+        return false;
+    }
+    public static void main(String[] args) {
+         
+        int[] arr = {1, 2, 3, 4, 2};
+          System.out.println(contains_duplicate(arr));
+        
+    }
+}
