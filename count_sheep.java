@@ -17,6 +17,8 @@ for(int i = 0; i<sheep.length; i++){
         Boolean[] sheep = {true, true, null, false, true, null, true};
 
         int result = countSheeps(sheep);
+
+        
         System.out.println("Number of sheep present: " + result);
     }
 }

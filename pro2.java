@@ -10,8 +10,6 @@ public class pro2 {
                 }
             }
         }
-
-        }
         return false;
     }
     public static void main(String[] args) {
@@ -19,7 +17,7 @@ public class pro2 {
         int[] nums = {1, 2, 3, 1};
 
         System.out.println(obj.containsDuplicate(nums));
-        
     }
-    
-}
+    }
+
+
