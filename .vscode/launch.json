@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "max_minnumber",
+      "request": "launch",
+      "mainClass": "max_minnumber",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
       "name": "count_sheep",
       "request": "launch",
       "mainClass": "count_sheep",
