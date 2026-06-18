@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "twosum",
+      "request": "launch",
+      "mainClass": "twosum",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "isPalindrome",
+      "request": "launch",
+      "mainClass": "two_pointers.isPalindrome",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
       "name": "searchele",
       "request": "launch",
       "mainClass": "array.searchele",
