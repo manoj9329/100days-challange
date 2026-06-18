@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "searchele",
+      "request": "launch",
+      "mainClass": "array.searchele",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "average",
+      "request": "launch",
+      "mainClass": "array.average",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "sumofele",
+      "request": "launch",
+      "mainClass": "array.sumofele",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "largestno",
+      "request": "launch",
+      "mainClass": "array.largestno",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "majorityElement",
+      "request": "launch",
+      "mainClass": "majorityElement",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "mergsortedarray",
+      "request": "launch",
+      "mainClass": "mergsortedarray",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "biding",
+      "request": "launch",
+      "mainClass": "biding",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "find_unique",
+      "request": "launch",
+      "mainClass": "find_unique",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
+      "name": "valid_anagram",
+      "request": "launch",
+      "mainClass": "valid_anagram",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
       "name": "max_minnumber",
       "request": "launch",
       "mainClass": "max_minnumber",

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class valid_anagram {
+public class is_apalindrome {
 
     public static boolean isPalindrome(int x){
 
