@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "reverseString",
+      "request": "launch",
+      "mainClass": "two_pointers.reverseString",
+      "projectName": "100problems_145dc5ca"
+    },
+    {
+      "type": "java",
       "name": "twosum",
       "request": "launch",
       "mainClass": "twosum",
